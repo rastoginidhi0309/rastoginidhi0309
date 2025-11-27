@@ -1,16 +1,16 @@
-<h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-<h3 align="center">A dedicated [Your Primary Role, e.g., Data Scientist] from [Your Location].</h3>
+<h1 align="center">Hi there 👋, I'm Nidhi Rastogi</h1>
+<h3 align="center">A dedicated Frontend Developor from India.</h3>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 I’m currently focused on **[Specific Tech/Project, e.g., building scalable microservices]**.
-- 🌱 I’m constantly learning **[New Technology, e.g., Azure and TypeScript]**.
-- 👯 I’m looking to collaborate on **[Type of Project, e.g., open-source web applications]**.
-- 💬 Ask me about **[Expertise, e.g., Java, Spring Boot, or database design]**.
-- 🌐 Visit my portfolio: **[Your Portfolio Link]**
-- 📫 How to reach me: **[Your Professional Email]**
+- 🔭 I’m currently focused on Chat-Bot Development and Frontend Optimization.
+- 🌱 I’m constantly learning Machine Learning, Deep Learning & Artificial Intelligence.
+- 👯 I’m looking to collaborate on open-source frontend web applications and AI/ML projects**.
+- 💬 Ask me about HTML, CSS, JavaScript, AI, ML and Web Development best practices.
+- 🌐 Visit my portfolio: https://rastoginidhi0309.github.io/Portfolio/
+- 📫 How to reach me: nidhiwebdeveloper0309@gmail.com
 
 <br>
 
@@ -18,10 +18,10 @@
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Frontend** | [Tool 1 Icon], [Tool 2 Icon], [Tool 3 Icon] |
-| **Backend** | [Tool 1 Icon], [Tool 2 Icon], [Tool 3 Icon] |
-| **Databases** | [Tool 1 Icon], [Tool 2 Icon] |
-| **DevOps & Cloud** | [Tool 1 Icon], [Tool 2 Icon] |
+| **Frontend** | HTML, CSS, JAVASCRIPT,REACT.js|
+| **Backend** | PYTHON |
+| **Databases** | MYSQL, SQLite |
+| **Tools & Platforms** | Git, GitHub, Streamlit, VS Code |
 
 <br>
 
